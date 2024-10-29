@@ -1,0 +1,489 @@
+{
+  "Files": [
+    {
+      "Id": "E:\\dot_net\\Library Managemnt System\\Library Managemnt System\\Library Managemnt System\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\Library Managemnt System.bundle.scp.css",
+      "PackagePath": "staticwebassets\\Library Managemnt System.bundle.scp.css"
+    },
+    {
+      "Id": "E:\\dot_net\\Library Managemnt System\\Library Managemnt System\\Library Managemnt System\\wwwroot\\Images\\02132cb5-d135-44ec-a846-4bd24c20d22f_book1.jpg",
+      "PackagePath": "staticwebassets\\Images\\02132cb5-d135-44ec-a846-4bd24c20d22f_book1.jpg"
+    },
+    {
+      "Id": "E:\\dot_net\\Library Managemnt System\\Library Managemnt System\\Library Managemnt System\\wwwroot\\Images\\2442855d-038e-4532-99bf-9f863d40bf4e_book6.jpg",
+      "PackagePath": "staticwebassets\\Images\\2442855d-038e-4532-99bf-9f863d40bf4e_book6.jpg"
+    },
+    {
+      "Id": "E:\\dot_net\\Library Managemnt System\\Library Managemnt System\\Library Managemnt System\\wwwroot\\Images\\2f828240-bcfb-48a6-b4ae-d9a3e0c76186_book3.jpg",
+      "PackagePath": "staticwebassets\\Images\\2f828240-bcfb-48a6-b4ae-d9a3e0c76186_book3.jpg"
+    },
+    {
+      "Id": "E:\\dot_net\\Library Managemnt System\\Library Managemnt System\\Library Managemnt System\\wwwroot\\Images\\305c4919-84c5-4d99-803b-fcbe18f840ae_book4.jpg",
+      "PackagePath": "staticwebassets\\Images\\305c4919-84c5-4d99-803b-fcbe18f840ae_book4.jpg"
+    },
+    {
+      "Id": "E:\\dot_net\\Library Managemnt System\\Library Managemnt System\\Library Managemnt System\\wwwroot\\Images\\3454c26e-4b26-4671-86f5-5425495a5f84_about-bg.jpg",
+      "PackagePath": "staticwebassets\\Images\\3454c26e-4b26-4671-86f5-5425495a5f84_about-bg.jpg"
+    },
+    {
+      "Id": "E:\\dot_net\\Library Managemnt System\\Library Managemnt System\\Library Managemnt System\\wwwroot\\Images\\50bfec55-3259-4be7-b3fd-2f4aff03d41f_book2.jpg",
+      "PackagePath": "staticwebassets\\Images\\50bfec55-3259-4be7-b3fd-2f4aff03d41f_book2.jpg"
+    },
+    {
+      "Id": "E:\\dot_net\\Library Managemnt System\\Library Managemnt System\\Library Managemnt System\\wwwroot\\Images\\57d8b0a4-3c9c-4631-b2b5-ded212bc700f_book5.jpg",
+      "PackagePath": "staticwebassets\\Images\\57d8b0a4-3c9c-4631-b2b5-ded212bc700f_book5.jpg"
+    },
+    {
+      "Id": "E:\\dot_net\\Library Managemnt System\\Library Managemnt System\\Library Managemnt System\\wwwroot\\Images\\59f153e0-eb48-456b-8d31-340d603d32c5_about.png",
+      "PackagePath": "staticwebassets\\Images\\59f153e0-eb48-456b-8d31-340d603d32c5_about.png"
+    },
+    {
+      "Id": "E:\\dot_net\\Library Managemnt System\\Library Managemnt System\\Library Managemnt System\\wwwroot\\Images\\8d3ba574-82a0-4b79-bca4-3e8b88130899_book3.jpg",
+      "PackagePath": "staticwebassets\\Images\\8d3ba574-82a0-4b79-bca4-3e8b88130899_book3.jpg"
+    },
+    {
+      "Id": "E:\\dot_net\\Library Managemnt System\\Library Managemnt System\\Library Managemnt System\\wwwroot\\Images\\a73b4640-fc12-43e4-8f9b-219188ecb818_50bfec55-3259-4be7-b3fd-2f4aff03d41f_book2.jpg",
+      "PackagePath": "staticwebassets\\Images\\a73b4640-fc12-43e4-8f9b-219188ecb818_50bfec55-3259-4be7-b3fd-2f4aff03d41f_book2.jpg"
+    },
+    {
+      "Id": "E:\\dot_net\\Library Managemnt System\\Library Managemnt System\\Library Managemnt System\\wwwroot\\Images\\a9801f17-6fdf-440c-a6fe-a45ef8c5fec5_footer-bg.jpg",
+      "PackagePath": "staticwebassets\\Images\\a9801f17-6fdf-440c-a6fe-a45ef8c5fec5_footer-bg.jpg"
+    },
+    {
+      "Id": "E:\\dot_net\\Library Managemnt System\\Library Managemnt System\\Library Managemnt System\\wwwroot\\Images\\ee794651-1a14-4ead-92d0-1c8412d7aff9_50bfec55-3259-4be7-b3fd-2f4aff03d41f_book2.jpg",
+      "PackagePath": "staticwebassets\\Images\\ee794651-1a14-4ead-92d0-1c8412d7aff9_50bfec55-3259-4be7-b3fd-2f4aff03d41f_book2.jpg"
+    },
+    {
+      "Id": "E:\\dot_net\\Library Managemnt System\\Library Managemnt System\\Library Managemnt System\\wwwroot\\Images\\f2ae4599-550a-49d2-b29f-889eab4243c6_book3.jpg",
+      "PackagePath": "staticwebassets\\Images\\f2ae4599-550a-49d2-b29f-889eab4243c6_book3.jpg"
+    },
+    {
+      "Id": "E:\\dot_net\\Library Managemnt System\\Library Managemnt System\\Library Managemnt System\\wwwroot\\assets\\1.png",
+      "PackagePath": "staticwebassets\\assets\\1.png"
+    },
+    {
+      "Id": "E:\\dot_net\\Library Managemnt System\\Library Managemnt System\\Library Managemnt System\\wwwroot\\assets\\2.png",
+      "PackagePath": "staticwebassets\\assets\\2.png"
+    },
+    {
+      "Id": "E:\\dot_net\\Library Managemnt System\\Library Managemnt System\\Library Managemnt System\\wwwroot\\assets\\Library.jpg",
+      "PackagePath": "staticwebassets\\assets\\Library.jpg"
+    },
+    {
+      "Id": "E:\\dot_net\\Library Managemnt System\\Library Managemnt System\\Library Managemnt System\\wwwroot\\assets\\Read me.png",
+      "PackagePath": "staticwebassets\\assets\\Read me.png"
+    },
+    {
+      "Id": "E:\\dot_net\\Library Managemnt System\\Library Managemnt System\\Library Managemnt System\\wwwroot\\assets\\about-bg.jpg",
+      "PackagePath": "staticwebassets\\assets\\about-bg.jpg"
+    },
+    {
+      "Id": "E:\\dot_net\\Library Managemnt System\\Library Managemnt System\\Library Managemnt System\\wwwroot\\assets\\about.png",
+      "PackagePath": "staticwebassets\\assets\\about.png"
+    },
+    {
+      "Id": "E:\\dot_net\\Library Managemnt System\\Library Managemnt System\\Library Managemnt System\\wwwroot\\assets\\banner.jpg",
+      "PackagePath": "staticwebassets\\assets\\banner.jpg"
+    },
+    {
+      "Id": "E:\\dot_net\\Library Managemnt System\\Library Managemnt System\\Library Managemnt System\\wwwroot\\assets\\book-1.jpg",
+      "PackagePath": "staticwebassets\\assets\\book-1.jpg"
+    },
+    {
+      "Id": "E:\\dot_net\\Library Managemnt System\\Library Managemnt System\\Library Managemnt System\\wwwroot\\assets\\book-2.jpg",
+      "PackagePath": "staticwebassets\\assets\\book-2.jpg"
+    },
+    {
+      "Id": "E:\\dot_net\\Library Managemnt System\\Library Managemnt System\\Library Managemnt System\\wwwroot\\assets\\books.jpg",
+      "PackagePath": "staticwebassets\\assets\\books.jpg"
+    },
+    {
+      "Id": "E:\\dot_net\\Library Managemnt System\\Library Managemnt System\\Library Managemnt System\\wwwroot\\assets\\books1.jpg",
+      "PackagePath": "staticwebassets\\assets\\books1.jpg"
+    },
+    {
+      "Id": "E:\\dot_net\\Library Managemnt System\\Library Managemnt System\\Library Managemnt System\\wwwroot\\assets\\books2.png",
+      "PackagePath": "staticwebassets\\assets\\books2.png"
+    },
+    {
+      "Id": "E:\\dot_net\\Library Managemnt System\\Library Managemnt System\\Library Managemnt System\\wwwroot\\assets\\footer-bg.jpg",
+      "PackagePath": "staticwebassets\\assets\\footer-bg.jpg"
+    },
+    {
+      "Id": "E:\\dot_net\\Library Managemnt System\\Library Managemnt System\\Library Managemnt System\\wwwroot\\assets\\loading.gif",
+      "PackagePath": "staticwebassets\\assets\\loading.gif"
+    },
+    {
+      "Id": "E:\\dot_net\\Library Managemnt System\\Library Managemnt System\\Library Managemnt System\\wwwroot\\assets\\logo.png",
+      "PackagePath": "staticwebassets\\assets\\logo.png"
+    },
+    {
+      "Id": "E:\\dot_net\\Library Managemnt System\\Library Managemnt System\\Library Managemnt System\\wwwroot\\assets\\school.png",
+      "PackagePath": "staticwebassets\\assets\\school.png"
+    },
+    {
+      "Id": "E:\\dot_net\\Library Managemnt System\\Library Managemnt System\\Library Managemnt System\\wwwroot\\assets\\search_icon.png",
+      "PackagePath": "staticwebassets\\assets\\search_icon.png"
+    },
+    {
+      "Id": "E:\\dot_net\\Library Managemnt System\\Library Managemnt System\\Library Managemnt System\\wwwroot\\assets\\top-icon.png",
+      "PackagePath": "staticwebassets\\assets\\top-icon.png"
+    },
+    {
+      "Id": "E:\\dot_net\\Library Managemnt System\\Library Managemnt System\\Library Managemnt System\\wwwroot\\css\\animate.min.css",
+      "PackagePath": "staticwebassets\\css\\animate.min.css"
+    },
+    {
+      "Id": "E:\\dot_net\\Library Managemnt System\\Library Managemnt System\\Library Managemnt System\\wwwroot\\css\\font-awesome.min.css",
+      "PackagePath": "staticwebassets\\css\\font-awesome.min.css"
+    },
+    {
+      "Id": "E:\\dot_net\\Library Managemnt System\\Library Managemnt System\\Library Managemnt System\\wwwroot\\css\\fonts\\FontAwesome.otf",
+      "PackagePath": "staticwebassets\\css\\fonts\\FontAwesome.otf"
+    },
+    {
+      "Id": "E:\\dot_net\\Library Managemnt System\\Library Managemnt System\\Library Managemnt System\\wwwroot\\css\\fonts\\fontawesome-webfont.eot",
+      "PackagePath": "staticwebassets\\css\\fonts\\fontawesome-webfont.eot"
+    },
+    {
+      "Id": "E:\\dot_net\\Library Managemnt System\\Library Managemnt System\\Library Managemnt System\\wwwroot\\css\\fonts\\fontawesome-webfont.svg",
+      "PackagePath": "staticwebassets\\css\\fonts\\fontawesome-webfont.svg"
+    },
+    {
+      "Id": "E:\\dot_net\\Library Managemnt System\\Library Managemnt System\\Library Managemnt System\\wwwroot\\css\\fonts\\fontawesome-webfont.ttf",
+      "PackagePath": "staticwebassets\\css\\fonts\\fontawesome-webfont.ttf"
+    },
+    {
+      "Id": "E:\\dot_net\\Library Managemnt System\\Library Managemnt System\\Library Managemnt System\\wwwroot\\css\\fonts\\fontawesome-webfont.woff",
+      "PackagePath": "staticwebassets\\css\\fonts\\fontawesome-webfont.woff"
+    },
+    {
+      "Id": "E:\\dot_net\\Library Managemnt System\\Library Managemnt System\\Library Managemnt System\\wwwroot\\css\\fonts\\fontawesome-webfont.woff2",
+      "PackagePath": "staticwebassets\\css\\fonts\\fontawesome-webfont.woff2"
+    },
+    {
+      "Id": "E:\\dot_net\\Library Managemnt System\\Library Managemnt System\\Library Managemnt System\\wwwroot\\css\\jquery-ui.css",
+      "PackagePath": "staticwebassets\\css\\jquery-ui.css"
+    },
+    {
+      "Id": "E:\\dot_net\\Library Managemnt System\\Library Managemnt System\\Library Managemnt System\\wwwroot\\css\\jquery.fancybox.min.css",
+      "PackagePath": "staticwebassets\\css\\jquery.fancybox.min.css"
+    },
+    {
+      "Id": "E:\\dot_net\\Library Managemnt System\\Library Managemnt System\\Library Managemnt System\\wwwroot\\css\\jquery.mCustomScrollbar.min.css",
+      "PackagePath": "staticwebassets\\css\\jquery.mCustomScrollbar.min.css"
+    },
+    {
+      "Id": "E:\\dot_net\\Library Managemnt System\\Library Managemnt System\\Library Managemnt System\\wwwroot\\css\\meanmenu.css",
+      "PackagePath": "staticwebassets\\css\\meanmenu.css"
+    },
+    {
+      "Id": "E:\\dot_net\\Library Managemnt System\\Library Managemnt System\\Library Managemnt System\\wwwroot\\css\\nice-select.css",
+      "PackagePath": "staticwebassets\\css\\nice-select.css"
+    },
+    {
+      "Id": "E:\\dot_net\\Library Managemnt System\\Library Managemnt System\\Library Managemnt System\\wwwroot\\css\\normalize.css",
+      "PackagePath": "staticwebassets\\css\\normalize.css"
+    },
+    {
+      "Id": "E:\\dot_net\\Library Managemnt System\\Library Managemnt System\\Library Managemnt System\\wwwroot\\css\\owl.carousel.min.css",
+      "PackagePath": "staticwebassets\\css\\owl.carousel.min.css"
+    },
+    {
+      "Id": "E:\\dot_net\\Library Managemnt System\\Library Managemnt System\\Library Managemnt System\\wwwroot\\css\\responsive.css",
+      "PackagePath": "staticwebassets\\css\\responsive.css"
+    },
+    {
+      "Id": "E:\\dot_net\\Library Managemnt System\\Library Managemnt System\\Library Managemnt System\\wwwroot\\css\\slick.css",
+      "PackagePath": "staticwebassets\\css\\slick.css"
+    },
+    {
+      "Id": "E:\\dot_net\\Library Managemnt System\\Library Managemnt System\\Library Managemnt System\\wwwroot\\css\\style.css",
+      "PackagePath": "staticwebassets\\css\\style.css"
+    },
+    {
+      "Id": "E:\\dot_net\\Library Managemnt System\\Library Managemnt System\\Library Managemnt System\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "E:\\dot_net\\Library Managemnt System\\Library Managemnt System\\Library Managemnt System\\wwwroot\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "E:\\dot_net\\Library Managemnt System\\Library Managemnt System\\Library Managemnt System\\wwwroot\\js\\custom.js",
+      "PackagePath": "staticwebassets\\js\\custom.js"
+    },
+    {
+      "Id": "E:\\dot_net\\Library Managemnt System\\Library Managemnt System\\Library Managemnt System\\wwwroot\\js\\jquery-3.0.0.min.js",
+      "PackagePath": "staticwebassets\\js\\jquery-3.0.0.min.js"
+    },
+    {
+      "Id": "E:\\dot_net\\Library Managemnt System\\Library Managemnt System\\Library Managemnt System\\wwwroot\\js\\jquery.mCustomScrollbar.concat.min.js",
+      "PackagePath": "staticwebassets\\js\\jquery.mCustomScrollbar.concat.min.js"
+    },
+    {
+      "Id": "E:\\dot_net\\Library Managemnt System\\Library Managemnt System\\Library Managemnt System\\wwwroot\\js\\jquery.min.js",
+      "PackagePath": "staticwebassets\\js\\jquery.min.js"
+    },
+    {
+      "Id": "E:\\dot_net\\Library Managemnt System\\Library Managemnt System\\Library Managemnt System\\wwwroot\\js\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\js\\jquery.validate.js"
+    },
+    {
+      "Id": "E:\\dot_net\\Library Managemnt System\\Library Managemnt System\\Library Managemnt System\\wwwroot\\js\\plugin.js",
+      "PackagePath": "staticwebassets\\js\\plugin.js"
+    },
+    {
+      "Id": "E:\\dot_net\\Library Managemnt System\\Library Managemnt System\\Library Managemnt System\\wwwroot\\js\\popper.min.js",
+      "PackagePath": "staticwebassets\\js\\popper.min.js"
+    },
+    {
+      "Id": "E:\\dot_net\\Library Managemnt System\\Library Managemnt System\\Library Managemnt System\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "E:\\dot_net\\Library Managemnt System\\Library Managemnt System\\Library Managemnt System\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "E:\\dot_net\\Library Managemnt System\\Library Managemnt System\\Library Managemnt System\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "E:\\dot_net\\Library Managemnt System\\Library Managemnt System\\Library Managemnt System\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "E:\\dot_net\\Library Managemnt System\\Library Managemnt System\\Library Managemnt System\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "E:\\dot_net\\Library Managemnt System\\Library Managemnt System\\Library Managemnt System\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "E:\\dot_net\\Library Managemnt System\\Library Managemnt System\\Library Managemnt System\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "E:\\dot_net\\Library Managemnt System\\Library Managemnt System\\Library Managemnt System\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "E:\\dot_net\\Library Managemnt System\\Library Managemnt System\\Library Managemnt System\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "E:\\dot_net\\Library Managemnt System\\Library Managemnt System\\Library Managemnt System\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "E:\\dot_net\\Library Managemnt System\\Library Managemnt System\\Library Managemnt System\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "E:\\dot_net\\Library Managemnt System\\Library Managemnt System\\Library Managemnt System\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "E:\\dot_net\\Library Managemnt System\\Library Managemnt System\\Library Managemnt System\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "E:\\dot_net\\Library Managemnt System\\Library Managemnt System\\Library Managemnt System\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "E:\\dot_net\\Library Managemnt System\\Library Managemnt System\\Library Managemnt System\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "E:\\dot_net\\Library Managemnt System\\Library Managemnt System\\Library Managemnt System\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "E:\\dot_net\\Library Managemnt System\\Library Managemnt System\\Library Managemnt System\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "E:\\dot_net\\Library Managemnt System\\Library Managemnt System\\Library Managemnt System\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "E:\\dot_net\\Library Managemnt System\\Library Managemnt System\\Library Managemnt System\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "E:\\dot_net\\Library Managemnt System\\Library Managemnt System\\Library Managemnt System\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "E:\\dot_net\\Library Managemnt System\\Library Managemnt System\\Library Managemnt System\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "E:\\dot_net\\Library Managemnt System\\Library Managemnt System\\Library Managemnt System\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "E:\\dot_net\\Library Managemnt System\\Library Managemnt System\\Library Managemnt System\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "E:\\dot_net\\Library Managemnt System\\Library Managemnt System\\Library Managemnt System\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "E:\\dot_net\\Library Managemnt System\\Library Managemnt System\\Library Managemnt System\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "E:\\dot_net\\Library Managemnt System\\Library Managemnt System\\Library Managemnt System\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "E:\\dot_net\\Library Managemnt System\\Library Managemnt System\\Library Managemnt System\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "E:\\dot_net\\Library Managemnt System\\Library Managemnt System\\Library Managemnt System\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "E:\\dot_net\\Library Managemnt System\\Library Managemnt System\\Library Managemnt System\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "E:\\dot_net\\Library Managemnt System\\Library Managemnt System\\Library Managemnt System\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "E:\\dot_net\\Library Managemnt System\\Library Managemnt System\\Library Managemnt System\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "E:\\dot_net\\Library Managemnt System\\Library Managemnt System\\Library Managemnt System\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "E:\\dot_net\\Library Managemnt System\\Library Managemnt System\\Library Managemnt System\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "E:\\dot_net\\Library Managemnt System\\Library Managemnt System\\Library Managemnt System\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "E:\\dot_net\\Library Managemnt System\\Library Managemnt System\\Library Managemnt System\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "E:\\dot_net\\Library Managemnt System\\Library Managemnt System\\Library Managemnt System\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "E:\\dot_net\\Library Managemnt System\\Library Managemnt System\\Library Managemnt System\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "E:\\dot_net\\Library Managemnt System\\Library Managemnt System\\Library Managemnt System\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "E:\\dot_net\\Library Managemnt System\\Library Managemnt System\\Library Managemnt System\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "E:\\dot_net\\Library Managemnt System\\Library Managemnt System\\Library Managemnt System\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "E:\\dot_net\\Library Managemnt System\\Library Managemnt System\\Library Managemnt System\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "E:\\dot_net\\Library Managemnt System\\Library Managemnt System\\Library Managemnt System\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "E:\\dot_net\\Library Managemnt System\\Library Managemnt System\\Library Managemnt System\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "E:\\dot_net\\Library Managemnt System\\Library Managemnt System\\Library Managemnt System\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "E:\\dot_net\\Library Managemnt System\\Library Managemnt System\\Library Managemnt System\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "E:\\dot_net\\Library Managemnt System\\Library Managemnt System\\Library Managemnt System\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "E:\\dot_net\\Library Managemnt System\\Library Managemnt System\\Library Managemnt System\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "E:\\dot_net\\Library Managemnt System\\Library Managemnt System\\Library Managemnt System\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "E:\\dot_net\\Library Managemnt System\\Library Managemnt System\\Library Managemnt System\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "E:\\dot_net\\Library Managemnt System\\Library Managemnt System\\Library Managemnt System\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "E:\\dot_net\\Library Managemnt System\\Library Managemnt System\\Library Managemnt System\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "E:\\dot_net\\Library Managemnt System\\Library Managemnt System\\Library Managemnt System\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "E:\\dot_net\\Library Managemnt System\\Library Managemnt System\\Library Managemnt System\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "E:\\dot_net\\Library Managemnt System\\Library Managemnt System\\Library Managemnt System\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "E:\\dot_net\\Library Managemnt System\\Library Managemnt System\\Library Managemnt System\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "E:\\dot_net\\Library Managemnt System\\Library Managemnt System\\Library Managemnt System\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "E:\\dot_net\\Library Managemnt System\\Library Managemnt System\\Library Managemnt System\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "E:\\dot_net\\Library Managemnt System\\Library Managemnt System\\Library Managemnt System\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.Library Managemnt System.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.Library Managemnt System.props",
+      "PackagePath": "build\\Library Managemnt System.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.Library Managemnt System.props",
+      "PackagePath": "buildMultiTargeting\\Library Managemnt System.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.Library Managemnt System.props",
+      "PackagePath": "buildTransitive\\Library Managemnt System.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
